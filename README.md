@@ -1,6 +1,6 @@
-# DSA - Data Structures & Algorithms
+# DSA, React & JavaScript - Luyện tập & Ôn tập
 
-Repo luyện tập DSA bằng JavaScript.
+Repo luyện tập DSA, React và JavaScript.
 
 ## Cấu trúc thư mục
 
@@ -14,10 +14,6 @@ Repo luyện tập DSA bằng JavaScript.
 │   ├── 05-Queue/
 │   ├── 06-Hash-Table/
 │   ├── 07-Tree/
-│   │   ├── Binary-Tree/
-│   │   ├── Binary-Search-Tree/
-│   │   ├── AVL-Tree/
-│   │   └── Trie/
 │   ├── 08-Heap/
 │   ├── 09-Graph/
 │   └── 10-Disjoint-Set/
@@ -35,10 +31,34 @@ Repo luyện tập DSA bằng JavaScript.
 │   ├── 10-Divide-and-Conquer/
 │   └── 11-Bit-Manipulation/
 │
-└── 03-Practice/                 # Bài tập theo độ khó
-    ├── Easy/
-    ├── Medium/
-    └── Hard/
+├── 03-Practice/                 # Bài tập theo độ khó
+│   ├── Easy/
+│   ├── Medium/
+│   └── Hard/
+│
+├── 04-React/                    # React toàn diện
+│   ├── 01-Fundamentals/
+│   ├── 02-Hooks/
+│   ├── 03-Advanced-Patterns/
+│   ├── 04-Ecosystem/
+│   └── 05-Practice/
+│
+├── 05-NodeJS-NestJS/            # Node.js & NestJS
+│
+└── 06-JavaScript/               # JavaScript trọn bộ
+    ├── 01-Fundamentals/         # Biến, kiểu dữ liệu, toán tử, hàm, scope
+    ├── 02-Objects-Arrays/       # Object, Array, Destructuring, Map/Set
+    ├── 03-Functions-Advanced/   # Closure, HOF, Currying, Memoization
+    ├── 04-OOP/                  # Prototype, Class, Inheritance, Design Patterns
+    ├── 05-Async/                # Event Loop, Promise, Async/Await
+    ├── 06-DOM-BOM/              # DOM, Events, Event Delegation, Web Storage
+    ├── 07-ES6-Plus/             # let/const, Modules, Proxy, Optional Chaining
+    ├── 08-Error-Handling/       # Try/Catch, Custom Errors, Debugging
+    ├── 09-Regular-Expressions/  # Regex patterns & methods
+    ├── 10-Web-APIs/             # Fetch, WebSocket, Workers, Canvas
+    ├── 11-Performance/          # Memory, Debounce/Throttle, Lazy Loading
+    ├── 12-Testing/              # Jest, TDD
+    └── 13-Practice/             # Bài tập Easy/Medium/Hard
 ```
 
 ## Lộ trình học
