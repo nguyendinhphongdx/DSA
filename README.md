@@ -1,6 +1,6 @@
-# DSA, React & JavaScript - Luyện tập & Ôn tập
+# DSA, React, JavaScript & Software Design - Luyện tập & Ôn tập
 
-Repo luyện tập DSA, React và JavaScript.
+Repo luyện tập DSA, React, JavaScript, SOLID/Clean Code và Design Patterns.
 
 ## Cấu trúc thư mục
 
@@ -45,7 +45,7 @@ Repo luyện tập DSA, React và JavaScript.
 │
 ├── 05-NodeJS-NestJS/            # Node.js & NestJS
 │
-└── 06-JavaScript/               # JavaScript trọn bộ
+├── 06-JavaScript/               # JavaScript trọn bộ
     ├── 01-Fundamentals/         # Biến, kiểu dữ liệu, toán tử, hàm, scope
     ├── 02-Objects-Arrays/       # Object, Array, Destructuring, Map/Set
     ├── 03-Functions-Advanced/   # Closure, HOF, Currying, Memoization
@@ -59,6 +59,24 @@ Repo luyện tập DSA, React và JavaScript.
     ├── 11-Performance/          # Memory, Debounce/Throttle, Lazy Loading
     ├── 12-Testing/              # Jest, TDD
     └── 13-Practice/             # Bài tập Easy/Medium/Hard
+│
+├── 07-SOLID-Clean-Code/         # SOLID & Clean Code
+│   ├── 01-Single-Responsibility-Principle/
+│   ├── 02-Open-Closed-Principle/
+│   ├── 03-Liskov-Substitution-Principle/
+│   ├── 04-Interface-Segregation-Principle/
+│   ├── 05-Dependency-Inversion-Principle/
+│   ├── 06-DRY-KISS-YAGNI/
+│   ├── 07-Clean-Functions/
+│   ├── 08-Clean-Naming/
+│   ├── 09-Code-Smells-and-Refactoring/
+│   └── 10-Practice/
+│
+└── 08-Design-Patterns/          # Design Patterns (GoF)
+    ├── 01-Creational/           # Singleton, Factory, Builder, Prototype
+    ├── 02-Structural/           # Adapter, Decorator, Facade, Proxy, Composite, Bridge
+    ├── 03-Behavioral/           # Observer, Strategy, Command, Iterator, State, Mediator
+    └── 04-Practice/
 ```
 
 ## Lộ trình học
@@ -87,6 +105,12 @@ Repo luyện tập DSA, React và JavaScript.
 15. Two Pointers
 16. Sliding Window
 17. Binary Search nâng cao
+
+### Phase 5: Software Design
+18. SOLID Principles (SRP, OCP, LSP, ISP, DIP)
+19. Clean Code (DRY, KISS, YAGNI, Clean Functions, Naming)
+20. Code Smells & Refactoring
+21. Design Patterns (Creational, Structural, Behavioral)
 
 ## Cách sử dụng
 
